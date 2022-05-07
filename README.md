@@ -1,5 +1,10 @@
 # assignment4
 
+Owner- Nazia Sultana 2020mt93518
+Contributor- Hari 2020mt93723
+Contributor- Kartik 2020mt93639
+
+
 About Project "FizzBuzz"
 
 Implement the "enterprise" version of FizzBuzz (https://en.wikipedia.org/wiki/Fizz_buzz).
